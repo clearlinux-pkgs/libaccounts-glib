@@ -4,7 +4,7 @@
 #
 Name     : libaccounts-glib
 Version  : 1.25
-Release  : 2
+Release  : 3
 URL      : https://gitlab.com/accounts-sso/libaccounts-glib/-/archive/1.25/libaccounts-glib-1.25.tar.gz
 Source0  : https://gitlab.com/accounts-sso/libaccounts-glib/-/archive/1.25/libaccounts-glib-1.25.tar.gz
 Summary  : No detailed summary available
