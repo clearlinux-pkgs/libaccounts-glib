@@ -1,11 +1,4 @@
-1.25
+1.26
 docbook-xml
-glib-dev
 gtk-doc
-pkgconfig(check)
-pkgconfig(glib-2.0)
-pkgconfig(gobject-introspection-1.0)
-pkgconfig(libxml-2.0)
-pkgconfig(sqlite3)
-sqlite-autoconf-dev
 vala
